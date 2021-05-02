@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jatin!
-- 👀 I’m interested in hiring stellar talent for Postman Inc.
+- 👀 I help you connect with stellar product companies
 - 🌱 I’m currently looking for Product Engineers
-- 📫 Say 'Hi' at jatin.singh@postman.com
+- 📫 Say 'Hi' at jatinsingh161991@gmail.com
 
 <!---
 jatinsingh161991/jatinsingh161991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
